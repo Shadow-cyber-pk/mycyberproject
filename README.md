@@ -1,5 +1,3 @@
-📝 README for Project B (Advanced Network with Wireless and Server)
-
 # Advanced Network with Dedicated Server and Wireless Access
 
 This project builds upon the basic LAN model by adding wireless connectivity and a dedicated server.
@@ -24,3 +22,6 @@ To demonstrate an enhanced network design featuring both wired and wireless conn
 
 ## 📁 Tools Used
 - Cisco Packet Tracer
+
+## 📄 Project File
+- `multidepartmentnetwork.2.pkt` (open with Cisco Packet Tracer)
